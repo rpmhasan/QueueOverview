@@ -1,0 +1,6 @@
+E:\Rupam's Works\20.04\QueueOverviewApp\QueueOverviewApp\bin\Debug\QueueOverviewApp.exe.config
+E:\Rupam's Works\20.04\QueueOverviewApp\QueueOverviewApp\bin\Debug\QueueOverviewApp.exe
+E:\Rupam's Works\20.04\QueueOverviewApp\QueueOverviewApp\bin\Debug\QueueOverviewApp.pdb
+E:\Rupam's Works\20.04\QueueOverviewApp\QueueOverviewApp\obj\Debug\QueueOverviewApp.csprojResolveAssemblyReference.cache
+E:\Rupam's Works\20.04\QueueOverviewApp\QueueOverviewApp\obj\Debug\QueueOverviewApp.exe
+E:\Rupam's Works\20.04\QueueOverviewApp\QueueOverviewApp\obj\Debug\QueueOverviewApp.pdb
